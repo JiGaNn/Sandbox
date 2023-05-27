@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f97d72aa-c515-486b-85ee-015b173d24ba" name="Changes" comment="Anonim function in kotlin">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Generics.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Variance.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="f97d72aa-c515-486b-85ee-015b173d24ba" name="Changes" comment="T in out reified">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Extensions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,11 +61,19 @@
       <option name="project" value="LOCAL" />
       <updated>1683167126845</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="T in out reified">
+      <created>1685119646141</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685119646141</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Anonim function in kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Anonim function in kotlin" />
+    <MESSAGE value="T in out reified" />
+    <option name="LAST_COMMIT_MESSAGE" value="T in out reified" />
   </component>
 </project>
